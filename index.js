@@ -1,5 +1,6 @@
 /* Scope Chain Code-along */
 var customerName = 'bob';
+const favoriteCustomer = 'selma'
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
