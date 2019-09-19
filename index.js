@@ -1,6 +1,5 @@
 /* Scope Chain Code-along */
 var customerName = 'bob';
-let favoriteCustomer = 'selma'
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
@@ -23,5 +22,4 @@ function changeLeastFavoriteCustomer() {
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'patty';
 
-  //favoriteCustomer = 'selma';
 }
